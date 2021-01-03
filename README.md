@@ -2,7 +2,7 @@
 A basic website implementation of flipping cards in CSS.
  
 ## This project makes use of the following:
-* HTML/CSS.
+* HTML/CSS/Google Fonts.
 
 ## Features
 * 9 Cards arranged 3x3 using Flexbox
